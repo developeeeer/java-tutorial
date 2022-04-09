@@ -1,5 +1,7 @@
 package projava;
 
+import java.awt.*;
+
 public class SwitchSample {
     public static void main(String[] args) {
         // if
